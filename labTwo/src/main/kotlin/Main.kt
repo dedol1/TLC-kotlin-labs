@@ -32,6 +32,7 @@ fun main() {
     while (true) {
         print("Command: ")
         input = readLine()!!
+
         cmd = input.split(" ")
         when (cmd[0].lowercase()) {
             // Each command goes here...

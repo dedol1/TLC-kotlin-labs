@@ -1,0 +1,1 @@
+class HuntAction(nameOfAnimalToBeHunted : String) : Action()
